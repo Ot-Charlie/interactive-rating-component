@@ -66,8 +66,8 @@ I hope to continue working on my css skills. In this challenge, I still had to m
 ## Author
 
 - Website - [Onwuli Charles](https://www.onwuli-charles.netlify.app)
-- Frontend Mentor -(https://www.frontendmentor.io/profile/ot.chaarlie)
-- Twitter - [@yourusername](https://www.twitter.com/kingcharlie01)
+- Frontend Mentor -(https://www.frontendmentor.io/profile/ot.charlie)
+- Twitter - [@kingcharlie01](https://www.twitter.com/kingcharlie01)
 
 
 
